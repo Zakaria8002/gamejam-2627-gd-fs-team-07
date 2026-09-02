@@ -556,7 +556,7 @@ MonoBehaviour:
   joystickIndex: 2
   Speed: 10
   PlayerNumber: 2
-  actionCooldown: 0.2
+  actionCooldown: 0.4
   scaleMultiplier: 1.3
   scaleGrowDuration: 0.2
   scaleShrinkDuration: 0.2
@@ -1749,7 +1749,7 @@ MonoBehaviour:
   joystickIndex: 1
   Speed: 10
   PlayerNumber: 1
-  actionCooldown: 0.2
+  actionCooldown: 0.4
   scaleMultiplier: 1.3
   scaleGrowDuration: 0.2
   scaleShrinkDuration: 0.2
